@@ -79,6 +79,9 @@ Browser-based coding environment with built-in AI assistance. No installation ne
 **[Hugging Face](https://usefuturestack.com/tools/hugging-face)** — Freemium  
 Open platform for AI models, datasets, and machine learning tools. Essential for computer science and data science students exploring ML.
 
+**[Derivative Calculator AI](https://derivativecalculatorai.com/)** — Free  
+Step-by-step calculus solver for derivatives, integrals and limits, with AI explanations, answer checking and practice problems. No sign-up needed.
+
 ---
 
 ## Browse the Full Directory
